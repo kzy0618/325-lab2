@@ -1,0 +1,22 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+
+	<!-- Name the servlet (it's name is used in other elements to refer to this servlet.
+	     Specify the servlet's class that will be instantiated by the servlet container. -->
+	<servlet>
+		<servlet-name>RabbitCounter</servlet-name>
+		<servlet-class>nz.ac.auckland.fibonacci.RabbitCounterServlet</servlet-class>
+	</servlet>
+ 
+ 	<!-- Specify that the RabbitCounter servlet will process requests matching the
+ 	     patterns that begin http://<base-url>/rabbit/. The base url identifies the 
+ 	     server and port number, e.g. localhost:10000. -->
+	<servlet-mapping>
+		<servlet-name>RabbitCounter</servlet-name>
+		<url-pattern>/rabbit/*</url-pattern>
+	</servlet-mapping>
+
+</web-app>

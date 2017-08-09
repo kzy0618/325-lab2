@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-failsafe-plugin/xsd/failsafe-test-report.xsd" name="nz.ac.auckland.parolee.test.ParoleeResourceIT" time="7.065" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\bin"/>
+    <property name="java.vm.version" value="25.112-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="H:\study\325\lab2\softeng325-lab2-parolee"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="NZ"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="H:\study\325\lab2\softeng325-lab2-parolee"/>
+    <property name="java.runtime.version" value="1.8.0_112-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\zkon584\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\zkon584\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2672547768327026645.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:/progra~1/Java/jdk1.8.0_112/bin/../jre/bin/server;c:/progra~1/Java/jdk1.8.0_112/bin/../jre/bin;c:/progra~1/Java/jdk1.8.0_112/bin/../jre/lib/amd64;c:\progra~2\Measurement Computing\DAQ\;c:\progra~1\Java\jdk1.8.0_112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Perl64\bin;c:\progra~2\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;c:\progra~2\Windows Kits\8.0\Windows Performance Toolkit\;c:\progra~1\MiKTeX 2.9\miktex\bin\x64\;c:\progra~2\GTK&amp;#8;in;c:\progra~2\ggobi;C:\VISA\WinNTBin;c:\progra~2IVI Foundation\IVI\bin;c:\progra~1\IVI Foundation\IVI\bin;c:\progra~1\IVI Foundation\VISA\Win64\Bin\;C:\VXIPNP\WinNT\Bin\;c:\progra~2\Graphviz2.34\bin;c:\progra~1\MIT\Kerberos\bin;c:\progra~1\WinDump;c:\progra~1\apache-ant-1.9.6-bin\bin;c:\progra~1\Dew Research DLLs;c:\progra~2\QuickTime\QTSystem\;c:\progra~1\MATLAB\R2016b\bin;c:\progra~1\TortoiseSVN\bin;c:\progra~1\TortoiseHg\;c:\progra~1\Microsoft\Web Platform Installer\;c:\progra~2Microsoft SQL Server\120\Tools\Binn\;c:\progra~1\Microsoft SQL Server\120\Tools\Binn\;C:\CCP4-7\7.0\bin;C:\CCP4\ClustalW2;c:\progra~1\Python36;c:\progra~1\Python36\Scripts;c:\progra~1\SASHome\Secure;c:\progra~1\SASHome\x86\Secure;c:\progra~1\Microsoft SQL Server\110\Tools\Binn\;c:\progra~2\Microsoft SQL Server\110\Tools\Binn\;c:\progra~1\Microsoft SQL Server\110DTS\Binn\;c:\progra~2\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\progra~2Microsoft SQL Server\120\DTS\Binn\;c:\progra~2Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\;c:\progra~1\Hexagon\ERDAS IMAGINE 2015\;C:\Anaconda3;C:\Anaconda3\Scripts;c:\progra~1\OpenAFS\Common;c:\progra~1\OpenAFS\Client\Program;C:p	exlive\2016\bin\win32;c:\progra~2\Microsoft SDKs\F#\4.0\Framework\v4.0;C:\Progra~2\MSBuild\14.0\Bin\;c:\progra~1\Git\bin;c:\progra~1\Docker Toolbox;c:\progra~2\gow\bin;c:\progra~2\nodejs;C:\Users\student\AppData\Local\atom\bin;C:\Program Files\Eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\zkon584"/>
+    <property name="user.timezone" value="Pacific/Auckland"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="zkon584"/>
+    <property name="java.class.path" value="/C:/Program Files/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_112\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B verify"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_112"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_112\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="H:\study\325\lab2\softeng325-lab2-parolee\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testRetrieve" classname="nz.ac.auckland.parolee.test.ParoleeResourceIT" time="0.579"/>
+  <testcase name="testCreate" classname="nz.ac.auckland.parolee.test.ParoleeResourceIT" time="0.032"/>
+  <testcase name="testDelete" classname="nz.ac.auckland.parolee.test.ParoleeResourceIT" time="0.043"/>
+  <testcase name="testUpdate" classname="nz.ac.auckland.parolee.test.ParoleeResourceIT" time="0.026"/>
+</testsuite>
